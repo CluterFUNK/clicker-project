@@ -35,7 +35,7 @@ function buyAutoClick() {
     }, 1000);
   }
 }
-function matrixed(){
+function matrixa(){
   let a = document.getElementById("cheatcodes").value
 if(a == "phoneguy"){//dude you cracked the matrix
   points += 100;
