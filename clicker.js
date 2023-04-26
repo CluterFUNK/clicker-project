@@ -37,7 +37,7 @@ function buyAutoClick() {
 }
 function matrixa(){
   let a = document.getElementById("cheatcodes").value
-if(a == "phoneguy"){//dude you cracked the matrix
+if(a == "heisenberg"){//dude you cracked the matrix
   points += 100;
   document.getElementById("points").innerHTML = points.toFixed(1);
   document.getElementById("cheatcodes").value = "";
